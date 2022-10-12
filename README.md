@@ -17,7 +17,10 @@
     - CS 250: This is an intro to computation class (focused on logic and boolean algebra). This class teaches the basics of boolean algebra, 
       De Morgan's law, basic proof methods (such as Hypothetical Syllogism), propositional logic and predicates, quantifiers, partial and total orders,
       proof by induction, Breadth and depth first search, uniform cost search, A star search, regular expressions, and Kleene's theorem (DFA/NFAs)
-    - CS 311: This is an intro to algorithms course. I have not finished this course yet, however here is what the class has taught me so far:
+    - CS 311: This is an intro to algorithms course. I have not finished this course yet, however here is what the class has taught me so far: Runtime
+      analysis using Big O, Big Omega, and Big Theta, solving the Stable Matching problem (Gale-Shapley algorithm), Greedy algorithms (and proving
+      their correctness), and Divide and conquer algorithms (designing and analyzing runtime)
+    - CS 377: This is a course on operating systems. I have not finished this course yet, however, here is what the class has taught me so far: 
       
       
 - 👀 I’m interested in ...
