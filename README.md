@@ -23,8 +23,9 @@
     - CS 377: This is a course on operating systems. I have not finished this course yet, however, here is what the class has taught me so far: Processes
       (fork, exec, etc.), process scheduling techniques (MLFQ, STCF, etc.), threads, and locks/semaphores
     - CS 383: This is a course on the basics of artificial intelligence. I have not finished this course yet, however, here is what the class has taught
-      me so far 
-      
+      me so far: Differences between certain state space searching algorithms such as Uniform Cost Search, Greedy search, A Star Search, and Bredth/Depth
+      First Search, Constraint Satisfaction Problems, Game Theory (Minimax, Pruning Game Trees, Evalutation functions), Propositional logic and entailment,
+      and Bayesian Networks
       
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
